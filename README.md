@@ -8,5 +8,6 @@
 <p>Enter on the https://platform.openai.com/account/api-keys</p>
 <p>Create new OPENAI API KEY and COPY</p>
 <p>PASTE into .env</p>
-must be look as OPENAI_API_KEY={your_api_key}
+<b>must be look as OPENAI_API_KEY={your_api_key}</b>
+<hr>
 <p>uvicorn main:app --host 0.0.0.0 --port 8000</p>
